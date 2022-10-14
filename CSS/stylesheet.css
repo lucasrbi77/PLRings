@@ -528,7 +528,7 @@ html {
     img {
       width: 25%; }}
     
-      .headerus {
+     /* .headerus {
         display: flex;
         height: 5rem;
         background-color: #00acee;
@@ -537,5 +537,5 @@ html {
         z-index: 100;
         background: transparent;
         backdrop-filter: blur(10px);
-    }
+    }*/
 /*# sourceMappingURL=stylesheet.css.map */
