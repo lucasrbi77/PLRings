@@ -527,6 +527,14 @@ html {
       display: none; }
     img {
       width: 25%; }}
+
+        .galeriaTitulo {
+     
+      font-weight: lighter;
+      font-family: "Barlow Condensed", sans-serif;
+        color:rgb(238, 165, 220);
+        font-size: 2rem;
+    }
     
      /* .headerus {
         display: flex;
